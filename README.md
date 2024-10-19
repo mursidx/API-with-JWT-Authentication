@@ -64,8 +64,8 @@ Registers a new user.
 
 ```json
 {
-  "name": "John Doe",
-  "email": "john@example.com",
+  "name": "Mursid Hossen",
+  "email": "iammursid@gmail.com",
   "password": "password123"
 }
 ```
@@ -88,7 +88,7 @@ Logs in a user and returns a JWT.
 
 ```json
 {
-  "email": "john@example.com",
+  "email": "iammursid@gmail.com",
   "password": "password123"
 }
 ```
